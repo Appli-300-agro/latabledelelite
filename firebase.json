@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "latabledelelite",
+    "site": "latabledelelite-jmiyt",
     "public": "dist",
     "ignore": [
       "firebase.json",
